@@ -1,0 +1,18 @@
+{
+  "name": "simplest-chat-app",
+  "version": "0.0.1",
+  "license": "MIT",
+  "type": "module",
+  "private": "true",
+  "dependencies": {
+    "@encrejs/core": "^0.0.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.6",
+    "typescript": "^5.2.2"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "packageManager": "yarn@1.22.21"
+}
